@@ -1,0 +1,14 @@
+
+{
+    "name": "hello-node",
+    "version": "1.0.0",
+    "description": "A simple node.js Hello world app for kubernetes demo",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Kajal bairagi",
+    "license": "MIT",
+    "dependencies": {}
+
+}
