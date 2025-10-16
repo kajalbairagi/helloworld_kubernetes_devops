@@ -1,7 +1,5 @@
-# Terraform-related files 
+# Terraform
 .terraform/
 *.tfstate
 *.tfstate.backup
-.crash
-*.tfvars
 .terraform.lock.hcl
